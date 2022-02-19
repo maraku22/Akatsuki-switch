@@ -1,0 +1,11 @@
+C:\Users\Flandre\source\repos\AkatsukiServer\AkatsukiServer\bin\Debug\AkatsukiServer.exe.config
+C:\Users\Flandre\source\repos\AkatsukiServer\AkatsukiServer\bin\Debug\AkatsukiServer.exe
+C:\Users\Flandre\source\repos\AkatsukiServer\AkatsukiServer\bin\Debug\AkatsukiServer.pdb
+C:\Users\Flandre\source\repos\AkatsukiServer\AkatsukiServer\obj\Debug\AkatsukiServer.csproj.AssemblyReference.cache
+C:\Users\Flandre\source\repos\AkatsukiServer\AkatsukiServer\obj\Debug\AkatsukiServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Flandre\source\repos\AkatsukiServer\AkatsukiServer\obj\Debug\AkatsukiServer.Properties.Resources.resources
+C:\Users\Flandre\source\repos\AkatsukiServer\AkatsukiServer\obj\Debug\AkatsukiServer.csproj.GenerateResource.cache
+C:\Users\Flandre\source\repos\AkatsukiServer\AkatsukiServer\obj\Debug\AkatsukiServer.csproj.CoreCompileInputs.cache
+C:\Users\Flandre\source\repos\AkatsukiServer\AkatsukiServer\obj\Debug\AkatsukiServer.exe
+C:\Users\Flandre\source\repos\AkatsukiServer\AkatsukiServer\obj\Debug\AkatsukiServer.pdb
+C:\Users\Flandre\source\repos\AkatsukiServer\AkatsukiServer\obj\Debug\AkatsukiServer.SwitchMain.resources
