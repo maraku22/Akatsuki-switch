@@ -34,3 +34,5 @@ Akatsuki.pw Server用 UnOfficial Switcher Tools
 
 
 ------
+
+Discord:えるきゅ#3344
