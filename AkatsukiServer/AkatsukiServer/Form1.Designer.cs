@@ -76,6 +76,7 @@
             // FileBox
             // 
             this.FileBox.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(14)))), ((int)(((byte)(14)))), ((int)(((byte)(14)))));
+            this.FileBox.Enabled = false;
             this.FileBox.ForeColor = System.Drawing.Color.White;
             this.FileBox.Location = new System.Drawing.Point(6, 32);
             this.FileBox.Name = "FileBox";

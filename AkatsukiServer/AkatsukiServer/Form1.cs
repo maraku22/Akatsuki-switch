@@ -84,6 +84,7 @@ namespace AkatsukiServer
         public static Process Process;
         private void SwitchMain_Load(object sender, EventArgs e)
         {
+            FileBox.Enabled = false;
             MouseDown += new MouseEventHandler(SwitchMain_MouseDown);
             MouseMove += new MouseEventHandler(SwitchMain_MouseMove);
             var osu = Process.GetProcessesByName("osu!");
@@ -122,7 +123,7 @@ namespace AkatsukiServer
             }
             else
             {
-                MessageBox.Show("Please start osu");
+                MessageBox.Show("Please start osu");//Error
                 return;
             }
         }
